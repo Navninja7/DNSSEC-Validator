@@ -17,11 +17,11 @@ Internet connection (required for DNS queries)
 pip install -r requirements.txt
 
 # Project Files
-dnssec_validator.py → DNSSEC validation module (Q1)
-dnssec_resolver.py → Recursive DNSSEC resolver (Q2)
-dnssec_nsec_resolver.py → Resolver with NSEC/NSEC3 (Q3)
-dnssec_key_lifecycle.py → Key lifecycle analysis (Q4)
-dnssec_tamper_demo.py → Tampering detection demo (Q5)
+1. dnssec_validator.py → DNSSEC validation module (Q1)
+2. dnssec_resolver.py → Recursive DNSSEC resolver (Q2)
+3. dnssec_nsec_resolver.py → Resolver with NSEC/NSEC3 (Q3)
+4. nssec_key_lifecycle.py → Key lifecycle analysis (Q4)
+5. dnssec_tamper_demo.py → Tampering detection demo (Q5)
 
 # How to Run
 1. DNSSEC Validation (Q1)
