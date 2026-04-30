@@ -2,12 +2,11 @@
 
 This project is a part of the CS6903 Network Security course taken in the Jan-May 2026 Semester at IIT Hyderabad. THe project implements a DNSSEC validation system including:
 
-## DNSSEC validation module (Q1)
-## Recursive DNSSEC resolver (Q2)
-## NSEC/NSEC3 handling (Q3)
-## Key lifecycle analysis (Q4)
-## Tampering detection demo (Q5)
-
+- DNSSEC validation module (Q1)
+- Recursive DNSSEC resolver (Q2)
+- NSEC/NSEC3 handling (Q3)
+- Key lifecycle analysis (Q4)
+- Tampering detection demo (Q5)
 
 # Prerequisites
 Python 3.8+
